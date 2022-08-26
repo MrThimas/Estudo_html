@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #dfe2e8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabeca_site{
+    height: 100px;
+    background-color: black;
+}
+.logo_teste{
+    margin-top: 10px;
+    height: 50px;
+    position: absolute;
+}
+.links{
+    display: inline-block;
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 75px;
+    
+}
+.sobre{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+.projetos{
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+.contato{
+    color: white;
+    text-decoration: none;
+}
+h2{
+    float: left;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-left: 60px;
+    color: white;
+    position: absolute;
+  
+}
+.gatinho{
+    float: right;
+    margin-left: 100px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 20px; 
+}
+.conteudo{
+    margin-left: 10px;
+    height: 800px;
+    width: 700px;
+
+}
+.p1{
+    margin-top: 15px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    background-color: black;
+    height: 150px;
+    text-align: right;
+    color: white;
+    
+}
+.inf_footer{
+    display: inline-block;
+    margin-top: 55px;
+    margin-right: 40px;
+}
+.cont{
+
+    margin-right: 75px;
+}
+.email{
+    margin-right: 32px;
+}
+.linked{
+    margin-right: 105px;
+}
+.autoria{
+    float: left;
+    text-align: left;
+}
